@@ -9,6 +9,7 @@ The dataset in question, meticulously collected via the process of web scraping 
 The machine learning algorithm that I used  for this dataset is GRADIENT BOOST model.
 
 <img width="730" alt="Screenshot 2024-05-03 at 11 37 47 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/2341afcc-70f5-4a54-b705-aa724bc124b6">
+
 ## Summary of Workdone
 
 ### Data
@@ -19,9 +20,14 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
     * Output: success/failure; what affect the price of the used car.
   * Size: 2840 observations/rows; 6 features/columns
   * Instances (Train, Validation, Test; Split): 80% for training 20% for testing
-<img width="730" alt="Screenshot 2024-05-03 at 11 37 47 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/2341afcc-70f5-4a54-b705-aa724bc124b6">
 
+#### Preprocessing / Clean up
 
+* Filtered out unneccessary features, and created new features that gives better results
+* Only color columns contains some unknown values.
+* The categorical features were encoded using OneHotEncoder() and Label Encoding. 
+
+#### Data Visualization
 
 <img width="725" alt="Screenshot 2024-05-03 at 11 38 33 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/a6227ced-cef1-4d95-90b7-1450b096e3c5">
 
