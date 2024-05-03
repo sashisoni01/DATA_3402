@@ -71,6 +71,7 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 
 ### Future Work
 
+* I will use Standard Deviation technique to guess the price in future.
 * I want to work more on the categorical variable and make it more easier to use for machine learning.
 * Model Selectors and cross validation.
 *  Future studies could further research the features used for the model to confirm which features tend to have the highest correlation with the price.
