@@ -44,6 +44,5 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
     * XGBRegressor: 68.8%
     * RandomForestRegressor: 68.2%
     * GradientBoostingRegressor: 78.6
-<i<img width="728" alt="Screenshot 2024-05-03 at 11 39 07 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/73b12d3f-5a6e-45a1-bf49-b1e7f0ac5add">
-mg width="726" alt="Screenshot 2024-05-03 at 11 38 50 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/09630b99-bb79-4aaf-a910-48d4dc1833ec">
-s/143819869/ae4cf8c1-5174-46f6-948d-ec8939cef90f">
+<img width="728" alt="Screenshot 2024-05-03 at 11 39 07 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/73b12d3f-5a6e-45a1-bf49-b1e7f0ac5add">
+
