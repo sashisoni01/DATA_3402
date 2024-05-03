@@ -28,7 +28,11 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 
 #### Data Visualization
 
+<img width="728" alt="Screenshot 2024-05-03 at 12 43 11 PM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/7b9a156a-c4d2-4912-86f6-d7aa6468b3b5">
+
+
 <img width="725" alt="Screenshot 2024-05-03 at 11 38 33 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/a6227ced-cef1-4d95-90b7-1450b096e3c5">
+
 
 ### Problem Formulation
 
