@@ -13,7 +13,6 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 ## Summary of Workdone
 
 ### Data
-  *Data:
     *Type:
       * Input: CSV file of features; categorical and numerical data describing year, 
       miles, condition, color, name and price.
