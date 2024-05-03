@@ -24,7 +24,10 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 * Filtered out unneccessary features, and created new features that gives better results.
 * Features Used: Year, Miles, Brand, Model, Exterior, Interior, Num of Accident, Num of Owner, and Price.
 * Only color columns contains some unknown values.
-* The categorical features were encoded using OneHotEncoder() and Label Encoding. 
+* The categorical features were encoded using OneHotEncoder() and Label Encoding.
+* I used IQR technique to deal with outliers.
+ <img width="729" alt="Screenshot 2024-05-03 at 12 43 54 PM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/dc2ef808-7f16-4367-aed2-15e029c0071a">
+
 
 #### Data Visualization
 
