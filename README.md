@@ -64,7 +64,7 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 
 * I want to work more on the categorical variable and make it more easier to use for machine learning.
 * Model Selectors and cross validation.
-*  Future studies could further research the features used for the model to confirm which features tend to have the highest correlation with the occurance of cancer and the success of screening.
+*  Future studies could further research the features used for the model to confirm which features tend to have the highest correlation with the price.
 *  Work more on Label Encoding because it was the tough part of problem foundation.
 
 ## How to reproduce results
