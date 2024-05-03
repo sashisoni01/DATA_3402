@@ -23,7 +23,8 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 
 #### Preprocessing / Clean up
 
-* Filtered out unneccessary features, and created new features that gives better results
+* Filtered out unneccessary features, and created new features that gives better results.
+* Features Used: Year, Miles, Brand, Model, Exterior, Interior, Num of Accident, Num of Owner, and Price.
 * Only color columns contains some unknown values.
 * The categorical features were encoded using OneHotEncoder() and Label Encoding. 
 
@@ -31,6 +32,18 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 
 <img width="725" alt="Screenshot 2024-05-03 at 11 38 33 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/a6227ced-cef1-4d95-90b7-1450b096e3c5">
 
+### Problem Formulation
+
+* Define:
+  * Input: selected features mentioned above.
+  * Output: 80% with GradientBoost.
+  * Models:
+    * LinearRegression: 53.9%
+    * SVR: 48.9%
+    * DecisionTreeRegressor: 47.4%
+    * XGBRegressor: 68.8%
+    * RandomForestRegressor: 68.2%
+    * GradientBoostingRegressor: 78.6
 <img width="723" alt="Screenshot 2024-05-03 at 11 38 17 AM" src="https://github.com/sashisoni01/DATA_3402/asset<i<img width="728" alt="Screenshot 2024-05-03 at 11 39 07 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/73b12d3f-5a6e-45a1-bf49-b1e7f0ac5add">
 mg width="726" alt="Screenshot 2024-05-03 at 11 38 50 AM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/09630b99-bb79-4aaf-a910-48d4dc1833ec">
 s/143819869/ae4cf8c1-5174-46f6-948d-ec8939cef90f">
