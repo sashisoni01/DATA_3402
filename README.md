@@ -13,12 +13,11 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 ## Summary of Workdone
 
 ### Data
-    *Type:
-      * Input: CSV file of features; categorical and numerical data describing year, 
-      miles, condition, color, name and price.
-    * Output: success/failure; what affect the price of the used car.
-  * Size: 2840 observations/rows; 6 features/columns
-  * Instances (Train, Validation, Test; Split): 80% for training 20% for testing
+*Type:
+* Input: CSV file of features; categorical and numerical data describing year, miles, condition, color, name and price.
+* Output: success/failure; what affect the price of the used car.
+* Size: 2840 observations/rows; 6 features/columns
+* Instances (Train, Validation, Test; Split): 80% for training 20% for testing
 
 #### Preprocessing / Clean up
 
