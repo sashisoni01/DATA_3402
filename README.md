@@ -19,6 +19,10 @@ The machine learning algorithm that I used  for this dataset is GRADIENT BOOST m
 * Size: 2840 observations/rows; 6 features/columns
 * Instances (Train, Validation, Test; Split): 80% for training 20% for testing
 
+<img width="676" alt="Screenshot 2024-05-03 at 12 46 53 PM" src="https://github.com/sashisoni01/DATA_3402/assets/143819869/e0f91582-c956-4a2d-98b6-1576aa964048">
+
+  
+
 #### Preprocessing / Clean up
 
 * Filtered out unneccessary features, and created new features that gives better results.
